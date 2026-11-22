@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="stayflowMarkTitle">
+  <title id="stayflowMarkTitle">Stayflow</title>
+  <defs>
+    <linearGradient id="stayflowFlow" x1="13" y1="15" x2="51" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#70D2FF"/>
+      <stop offset="1" stop-color="#2C8CFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#17213B"/>
+  <path d="M16.25 19.375H40.625C45.625 19.375 47.5 21.563 47.5 25.313C47.5 28.75 45 30.625 40.625 30.625H23.438C18.75 30.625 16.563 32.813 16.563 36.563C16.563 40.625 19.375 43.125 24.063 43.125H43.75" fill="none" stroke="url(#stayflowFlow)" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="43.75" cy="43.125" r="3.56" fill="#FFC247"/>
+</svg>
